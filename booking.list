@@ -1,0 +1,5 @@
+ # 内容：booking
+# 域名关键字匹配
+DOMAIN-KEYWORD,booking
+# 域名后缀匹配
+DOMAIN-SUFFIX,booking.com
